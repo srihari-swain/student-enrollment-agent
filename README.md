@@ -105,13 +105,9 @@ streamlit run app.py
 - Select a model from the dropdown
 - Start chatting with the assistant
 
-## Screenshots
+## Screenshot
 
-### Settings — API Key & Model Selection
-![Settings](screenshots/settings.png)
-
-### Chat Interface
-![Chat](screenshots/chat.png)
+![Student Enrollment Assistant](screenshots/image.png)
 
 ## Agent Architecture
 
