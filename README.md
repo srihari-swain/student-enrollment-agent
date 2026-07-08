@@ -105,6 +105,14 @@ streamlit run app.py
 - Select a model from the dropdown
 - Start chatting with the assistant
 
+## Screenshots
+
+### Settings — API Key & Model Selection
+![Settings](screenshots/settings.png)
+
+### Chat Interface
+![Chat](screenshots/chat.png)
+
 ## Agent Architecture
 
 The agent uses LangChain's `create_agent` which implements the **ReAct (Reasoning + Acting)** pattern:
